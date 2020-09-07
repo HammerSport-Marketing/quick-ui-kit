@@ -22,7 +22,7 @@ Automate painful or time-consuming tasks in your development workflow, so you ca
 - npm install
 - gulp
 
-## Documentation
+## Documentation 
 
 No matter you are a developer or new to web design, you will find our theme very easy to customize with an intuitive HTML markup. In the theme's pack you will find a docs folder with all the information you need to start, customize and more.
 
